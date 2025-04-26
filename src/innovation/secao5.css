@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.secao5{
+    background-color: #dededea4;
+    width: 1920px;
+    height: 386px;
+}
+
+.logo{
+    margin-top: 50%;
+}
+
+
+.redes .redes-sociais {
+    margin: 15px;
+}
+
+
+
+.sobre {
+    justify-content: space-around;
+    display: flex;
+    
+}
+
+
+.secao5 p {
+    margin-top: 5%;
+}
+
+
+.cartoes {
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+
+}
+
+.cartoes img {
+    margin: 15px;
+    width: 23px;
+    height: 15px;
+}
