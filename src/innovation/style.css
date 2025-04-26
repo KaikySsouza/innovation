@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+h1{
+    font-size: 14px;
+    text-align: center;
+    background-color:#005CFF;
+    color: white;
+    padding: 10px;
+}
+
+header{
+    display: inline;
+    
+}
+
+.search {
+    display: inline;
+    margin: 20px;
+
+}
+
+.avanti {
+    margin-left: 10%;
+    margin-right:  45px;
+    margin-top: 10px;
+    
+}
+
+.lupa{
+    margin-left: 50px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: rgba(0, 0, 0, 0.336) solid 1px;
+    padding: 5px 40px 5px 15px; /* Ajuste o padding para dar espaço à lupa */
+    height: 40px;
+    width: 550px;
+    background: url('../icon/Frame\ 52.png') no-repeat 98% center; /* Caminho da imagem da lupa */
+    background-size: 20px; /* Ajuste o tamanho da lupa */
+
+}
+.compra {
+    display: inline;
+    margin: 15%;
+    
+}
+
+.perfil {
+    display: inline;
+    margin-left: 5%;
+    margin: 5px;
+}
+
+.cliente {
+    display: inline-block;
+    margin: 15px;
+    margin-right: 50px;
+
+}
+
+.carrinnho {
+   display: flex;
+   ;
+}
+
+

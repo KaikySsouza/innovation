@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.banner {
+    display: flex;
+    background-color: #E7E7EA;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    box-shadow: #10101b33 1px 1px 10px;
+    
+}
+
+
+
+
+.sale {
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 300px;
+}

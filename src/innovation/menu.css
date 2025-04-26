@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ 
+li {
+    display: inline;
+    margin: 25px;
+    font-size: 14px;
+
+}
+
+.categorias {
+    margin-left: 10%;
+}

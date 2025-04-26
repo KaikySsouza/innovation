@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.caneca {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+  
+}
+
+.caneca-container {
+  display: flex;
+  
+}
+.caneca-texto{ 
+    margin: 20px;
+}
+h4 {
+    margin-bottom: 10px; 
+    margin-left: 15px;
+    font-size: 25px; 
+    display: flex;
+    justify-content: start;
+    text-align: start;
+}
+
+.texto {
+    margin-top: 0; 
+    font-size: 17px; 
+    color: #333; 
+    width: 487px;
+    margin: 15px;
+    word-spacing: 10px;
+}
+
+
+
+.caneca-img {
+  background-color: #c2c2c2;
+}
+
+
+
+
