@@ -62,13 +62,15 @@ header{
 .cliente {
     display: inline-block;
     margin: 15px;
+    margin-top: 20px;
+    margin-bottom: 0;
     margin-right: 50px;
 
 }
 
 .carrinnho {
    display: flex;
-   ;
+   
 }
 
 
